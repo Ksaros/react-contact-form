@@ -4,7 +4,7 @@ import axios from 'axios'
 import './App.css';
 
 // App brain
-//ss
+
 const API_PATH = '/projekty/react-contact-form/api/contact/index.php';
 
 class App extends React.Component {
